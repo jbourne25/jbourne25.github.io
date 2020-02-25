@@ -1,11 +1,11 @@
 # Site settings
 author: Jeremy Bourne
-title: 
+title: Life of a Software Engineering Student
 header-img: img/home-bg.png
 email: jbourne25@yahoo.com
 copyright_name: Jeremy Bourne
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Stories about coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jbourne25
